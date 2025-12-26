@@ -1,0 +1,21 @@
+# M&A Acquisition Analysis Model
+# Core dependencies
+
+# No external dependencies required - uses Python standard library only
+# Optional dependencies for enhanced functionality:
+
+# For data visualization (optional)
+# matplotlib>=3.7.0
+# plotly>=5.15.0
+
+# For Excel export (optional)
+# openpyxl>=3.1.0
+# xlsxwriter>=3.1.0
+
+# For data manipulation (optional)
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# For testing
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
